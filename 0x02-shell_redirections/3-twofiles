@@ -1,2 +1,2 @@
 #!/bin/basn
-cat /etc/paswd /etc/hosts
+cat /etc/passwd /etc/hosts
