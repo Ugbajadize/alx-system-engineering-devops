@@ -1,7 +1,7 @@
 ![check](https://github.com/Ugbajadize/alx-system_engineering-devops/assets/114473044/2f1cca1a-db33-4214-b1b3-9f0e3db9204a)
 
 Issue Summary
-05/06/2023 From 03:16 AM to 4:10 AM GMT+1 all requests for the homepage to our servers got a 404 response.
+05/06/2023 From 03:16 AM to 4:10 AM UTC+1 all requests for the homepage to our servers got a 404 response.
 
 Timeline
 03:16 AM : Updates 
